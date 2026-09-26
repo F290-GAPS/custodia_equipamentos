@@ -7,3 +7,5 @@
 [Retrospectiva](retrospective.md)
 
 [Planning](planning.md)
+
+[Gantter](gantter.md)
