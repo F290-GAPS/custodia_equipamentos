@@ -2,10 +2,10 @@
 
 ## Templates 
 
-[Review](review.md)
+[Review](./resources/sprints/Sprint1/review.md)
 
-[Retrospectiva](retrospective.md)
+[Retrospectiva](./resources/sprints/Sprint1/retrospective.md)
 
-[Planning](planning.md)
+[Planning](./resources/sprints/Sprint1/planning.md)
 
-[Gantter](gantter.md)
+[Gantter](./resources/docs/gantter.md)
